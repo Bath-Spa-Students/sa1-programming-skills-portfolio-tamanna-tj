@@ -1,5 +1,0 @@
-j = 1
-while j < 10:
-    print(j)
-    if j == 5:
-        breakj += 1
